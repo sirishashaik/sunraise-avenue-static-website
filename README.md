@@ -28,6 +28,7 @@ The website focuses on a clean design, simple navigation, and a user-friendly br
 
 ## Project Structure
 
+``` text
 sunraise-avenue-static-website/
 │
 ├── index.html
@@ -37,6 +38,7 @@ sunraise-avenue-static-website/
 ├── four_BHK.html
 ├── style.css
 └── README.md
+```
 
 
 ## Deployment
