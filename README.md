@@ -28,7 +28,6 @@ The website focuses on a clean design, simple navigation, and a user-friendly br
 
 ## Project Structure
 
-
 sunraise-avenue-static-website/
 │
 ├── index.html
